@@ -4,9 +4,9 @@ This notebook was ran with the following dependencies and requirements:
 
 Python 3.10
 
-etrommer/torch-approx 0.1.0 on Github, commit 10e0a87c5f31bc9c4ad0c4105fe608edcebb120d
+etrommer/torch-approx 0.1.0 on Github, commit `10e0a87c5f31bc9c4ad0c4105fe608edcebb120d`
 
-etrommer/agn-approx 0.1.0 on GitHub, commit efbd57985989828bbf4d2cbf5e27fc62b60456e2
+etrommer/agn-approx 0.1.0 on GitHub, commit `efbd57985989828bbf4d2cbf5e27fc62b60456e2`
 
 # Setup
 
@@ -30,7 +30,7 @@ Once you are running Python version 3.10, ensure pip is installed by running the
 
 Then, clone this repository with the .ipynb file, and `cd` into the directory.
 
-Once you are in the directory, clone the `torch-approx` repository at the commit beginning with `10e0a87c5f31bc9c4ad0c4105fe608edcebb120d`.
+Once you are in the directory, clone the `torch-approx` repository at commit `10e0a87c5f31bc9c4ad0c4105fe608edcebb120d`.
 
 Using a terminal, `cd` into the torch-approx root directory and run `pip install --no-build-isolation .`
 

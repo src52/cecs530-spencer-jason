@@ -3,10 +3,10 @@
 This notebook was ran with the following dependencies and requirements:
 
 Python 3.10
-torch-approx 0.1.0 on Github, commit 10e0a87c5f31bc9c4ad0c4105fe608edcebb120d
-https://github.com/etrommer/torch-approx/tree/10e0a87c5f31bc9c4ad0c4105fe608edcebb120d
-agn-approx 0.1.0 on GitHub, commit efbd57985989828bbf4d2cbf5e27fc62b60456e2 
-https://github.com/etrommer/agn-approx/tree/efbd57985989828bbf4d2cbf5e27fc62b60456e2
+
+etrommer/torch-approx 0.1.0 on Github, commit 10e0a87c5f31bc9c4ad0c4105fe608edcebb120d
+
+etrommer/agn-approx 0.1.0 on GitHub, commit efbd57985989828bbf4d2cbf5e27fc62b60456e2
 
 # Setup
 
